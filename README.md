@@ -6,7 +6,7 @@
 ## About Bot
 ```bash
 > This Bot Is Still Under Construction
-> contact me on whats app for help : +923178022596
+> contact me on whats app for help : +923178022596 && +919707905478
 ```
 ## Node Modules
 ```bash
@@ -132,5 +132,4 @@ First Install Following Softwares
 <ul>
 <li>HackerzAnon<br>
 <li>Nurotomo<br>
-</li>
-
+<li>Noob hacker Raj<br>
