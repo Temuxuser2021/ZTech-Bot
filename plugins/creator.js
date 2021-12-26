@@ -1,5 +1,5 @@
 function handler(m) {
-this.sendContact(m.chat, '+923178022596', 'ZTech', m)
+this.sendContact(m.chat, '+919707905478', 'Noob Hacker Raj', m)
 
 }
 
