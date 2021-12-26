@@ -1,6 +1,6 @@
 module.exports = {
     before(m) {
-      if (/\b(bruh)\b/i.test(m.text)) m.reply('🎀Soory Am Bot Its Auto Reply Type\n/help To Use Me🎀 ')
+      if (/\b(bruh)\b/i.test(m.text)) m.reply('🎀jyada bore ho raha hei toh nikal maderchod koi jarurat nahin teri idhar🎀 ')
       return !0
     }
   }
