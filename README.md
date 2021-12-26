@@ -11,7 +11,7 @@
 ## Node Modules
 ```bash
 > If You Face Any Error In npm i command Then download node modlues zip file and extract in bot files folder
-> Download link : https://drive.google.com/file/d/1zFuQ7OSiAV58nfB7pWp0SheaMLB0OB9f/view?usp=sharing
+> Download link : https://www.mediafire.com/file/uxqajq85kc6qs2e/node_modules.zip/file
 ```
 ```bash
 > Fixed Baileys Error
@@ -136,3 +136,4 @@ First Install Following Softwares
 <li>HackerzAnon<br>
 <li>Nurotomo<br>
 <li>Noob hacker Raj<br>
+<li>Zain vmro <br>
