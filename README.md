@@ -45,7 +45,7 @@ First Install Following Softwares
 ```bash
 > pkg install git -y
 > pkg install bash -y
-> git clone https://github.com/zaintech01/ZTech-Bot.git
+> git clone https://github.com/Temuxuser2021/ZTech-Bot
 > cd ZTEch-Bot
 > npm install
 > npm start
