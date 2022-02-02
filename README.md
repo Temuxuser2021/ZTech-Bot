@@ -86,7 +86,7 @@ First Install Following Softwares
 |       ✅        |  /enable antivulgar
 | MEDIA |                     Feature                |
 | :------------: | :---------------------------------------------: |
-|       ✅        |  /play              |
+|       👎        |  /play              |
 
 | Hacking Courses |                     Feature                |
 | :------------: | :---------------------------------------------: |
