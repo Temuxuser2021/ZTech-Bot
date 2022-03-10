@@ -135,5 +135,5 @@ First Install Following Softwares
 <ul>
 <li>HackerzAnon<br>
 <li>Nurotomo<br>
-<li>Noob hacker Raj<br>
+<li>Noob Programer Raj<br>
 <li>Zain vmro <br>
